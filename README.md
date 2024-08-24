@@ -22,7 +22,7 @@ Check out my [portfolio website](https://www.xntle.com/) for more about my work 
 
 ## 🌐 Let's Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/thai-an-le/)
+- **LinkedIn**: https://www.linkedin.com/in/thai-an-le/
 - **Email**: thaianle.workl@gmail.com
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate or just chat about tech and development.

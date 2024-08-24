@@ -5,8 +5,12 @@ Welcome to my GitHub profile! I'm a recent Computer Science graduate from UC Dav
 ## 🧑‍💻 About Me
 
 - 🎓 **Education**: B.S. in Computer Science, UC Davis
-- 💻 **Skills**: Full-Stack Development, Generative AI, Retrieval-Augmented Generation (RAG), AWS, Next.js, Tailwind CSS
 - 🚀 **Interests**: Software Engineering, Full Stack, AI Development, Project Magement, UI/UX
+
+- Programming Languages: C/C++, C# (VB.net), JavaScript, Python (Django), Java, HTML/CSS, Shell, React
+- Programming Frameworks: Node.js, MongoDB, Express.js, React Three/ThreeJS, NextJS, PineCone API, Gemini API,
+OpenAI API, Stripe API.
+- Design/Media/Other: Git, Figma, Canva, iMovie, Adobe Premiere Pro, Adobe Illustrator, Adobe Photoshop, CAD
 
 ## 📈 Featured Projects
 

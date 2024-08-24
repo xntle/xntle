@@ -12,10 +12,6 @@ Welcome to my GitHub profile! I'm a recent Computer Science graduate from UC Dav
 OpenAI API, Stripe API.
 - Design/Media/Other: Git, Figma, Canva, iMovie, Adobe Premiere Pro, Adobe Illustrator, Adobe Photoshop, CAD
 
-## 📈 Featured Projects
-
-- under construction tailoring my best projects
-
 ## 📚 Portfolio
 
 Check out my [portfolio website](https://www.xntle.com/) for more about my work and projects.

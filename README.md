@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a recent Computer Science graduate from UC Dav
 - 🎓 **Education**: B.S. in Computer Science, UC Davis
 - 🚀 **Interests**: Software Engineering, Full Stack, AI Development, Project Magement, UI/UX
 
-- Programming Languages: C/C++, C# (VB.net), JavaScript, Python (Django), Java, HTML/CSS, Shell, React
-- Programming Frameworks: Node.js, MongoDB, Express.js, React Three/ThreeJS, NextJS, PineCone API, Gemini API,
-OpenAI API, Stripe API.
+- Programming Languages: C/C++, C# (VB.net), JavaScript, Python (Django), Java, HTML/CSS
+- Programming Frameworks/Others: Node.js, MongoDB, Express.js, React Three/ThreeJS, NextJS, PineCone API, Gemini API,
+OpenAI API, Stripe API, Shell.
 - Design/Media/Other: Git, Figma, Canva, iMovie, Adobe Premiere Pro, Adobe Illustrator, Adobe Photoshop, CAD
 
 ## 📚 Portfolio

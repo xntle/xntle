@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a recent Computer Science graduate from UC Dav
 ## 🧑‍💻 About Me
 
 - 🎓 **Education**: B.S. in Computer Science, UC Davis
-- 🚀 **Interests**: Software Engineering, Full Stack, AI Development, Project Magement, UI/UX
+- 🚀 **Interests**: Software Engineering, Full Stack, AI Development, Project Magement
 
 - Programming Languages: C/C++, C# (VB.net), JavaScript, Python (Django), Java, HTML/CSS
 - Programming Frameworks/Others: Node.js, MongoDB, Express.js, React Three/ThreeJS, NextJS, PineCone API, Gemini API,

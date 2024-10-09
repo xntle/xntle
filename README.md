@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a recent Computer Science graduate from UC Davis with a passion for technology, software development, and innovative solutions.
 
-## 🧑‍💻 About Me
+## 🧑‍💻 about me
 
 - 🎓 **Education**: B.S. in Computer Science, UC Davis
 - 🚀 **Interests**: Software Engineering, Full Stack, AI Development, Project Magement
@@ -12,11 +12,16 @@ Welcome to my GitHub profile! I'm a recent Computer Science graduate from UC Dav
 OpenAI API, Stripe API, Shell.
 - Design/Media/Other: Git, Figma, Canva, iMovie, Adobe Premiere Pro, Adobe Illustrator, Adobe Photoshop, CAD
 
-## 📚 Portfolio
+## 📚 currently cooking
+
+- Redesigning my portfolio
+- wherewepause: your pause in a world that moves too fast—a space where you can slow down, breathe, and let the noise fade away. Here, you’ll find quiet guidance for life’s tangled moments, and maybe, a bit of yourself too.
+
+## 📚 portfolio
 
 Check out my [portfolio website](https://www.xntle.com/) for more about my work and projects.
 
-## 🌐 Let's Connect
+## 🌐 let's connect
 
 - **LinkedIn**: https://www.linkedin.com/in/thai-an-le/
 - **Email**: thaianle.work@gmail.com

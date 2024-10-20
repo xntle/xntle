@@ -16,6 +16,7 @@ OpenAI API, Stripe API, Shell.
 
 - Redesigning my portfolio
 - wherewepause: your pause in a world that moves too fast—a space where you can slow down, breathe, and let the noise fade away. Here, you’ll find quiet guidance for life’s tangled moments, and maybe, a bit of yourself too.
+- clubly.org: club finder for UC Davis Students
 
 ## 📚 portfolio
 

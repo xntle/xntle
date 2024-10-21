@@ -1,6 +1,6 @@
 # Hi there, I'm An 👋
 
-Welcome to my GitHub profile! I'm a recent Computer Science graduate from UC Davis with a passion for technology, software development, and innovative solutions.
+Welcome to my GitHub profile! I'm a secior Computer Science undergrad from UC Davis with a passion for technology, software development, and innovative solutions.
 
 ## 🧑‍💻 about me
 

@@ -1,11 +1,13 @@
 # Hi there, I'm An 👋
 
-Welcome to my GitHub profile! I'm a secior Computer Science undergrad from UC Davis with a passion for technology, software development, and innovative solutions.
+Welcome to my GitHub profile! I'm currently seeking for Software Engineer Internship
 
 ## 🧑‍💻 about me
 
-- 🎓 **Education**: B.S. in Computer Science, UC Davis
+- 🎓 **Education**: B.S. in Computer Science, UC Davis. Expected Dec 2025
 - 🚀 **Interests**: Software Engineering, Full Stack, AI Development, Project Magement
+
+🔴 [coworking streams on twitch](https://www.twitch.tv/xntle)
 
 - Programming Languages: C/C++, C# (VB.net), JavaScript, Python (Django), Java, HTML/CSS
 - Programming Frameworks/Others: Node.js, MongoDB, Express.js, React Three/ThreeJS, NextJS, PineCone API, Gemini API,

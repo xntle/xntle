@@ -22,7 +22,7 @@ OpenAI API, Stripe API, Shell.
 
 ## 📚 portfolio
 
-Check out my [portfolio website](https://www.xntle.com/) for more about my work and projects.
+Check out my [portfolio website](https://www.thaianle.com/) for more about my work and projects.
 
 ## 🌐 let's connect
 

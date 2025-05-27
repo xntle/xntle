@@ -1,7 +1,6 @@
 # Hi there, I'm An 👋
 
-🔴 [coworking streams on twitch](https://www.twitch.tv/xntle)
-[portfolio website](https://www.thaianle.com/).
+- [portfolio website](https://www.thaianle.com/).
 
 
 - Programming Languages: C/C++, C# (VB.net), JavaScript, Python (Django), Java, HTML/CSS
@@ -17,3 +16,5 @@ OpenAI API, Stripe API, Shell.
 
 - wherewepause: your pause in a world that moves too fast—a space where you can slow down, breathe, and let the noise fade away. Here, you’ll find quiet guidance for life’s tangled moments, and maybe, a bit of yourself too.
 - clubly.org: club finder for UC Davis Students
+
+🔴 [coworking streams on twitch](https://www.twitch.tv/xntle)
